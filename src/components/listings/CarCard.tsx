@@ -15,7 +15,7 @@ const CarCard = ({ car }: Props) => {
   const waLink = waNumber ? `https://wa.me/${waNumber}?text=${message}` : undefined;
 
   return (
-    <Card className="overflow-hidden hover-scale">
+    <Card className="overflow-hidden">
       <CardHeader>
         <CardTitle className="text-base">{car.make} {car.model} · {car.year}</CardTitle>
       </CardHeader>

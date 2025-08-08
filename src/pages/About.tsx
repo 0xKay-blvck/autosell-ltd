@@ -4,7 +4,7 @@ const About = () => {
   return (
     <>
       <Head title="About Us | AutoSell Ltd" description="AutoSell is Ghana's mobile-first car advertising platform connecting buyers with trusted sellers and garages." canonicalPath="/about" />
-      <section className="container py-10">
+      <section className="container py-10 animate-fade-in">
         <h1 className="text-3xl font-bold">About Us</h1>
         <div className="prose prose-neutral max-w-none mt-4">
           <p>

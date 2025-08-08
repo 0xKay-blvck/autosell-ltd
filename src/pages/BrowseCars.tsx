@@ -23,7 +23,7 @@ const BrowseCars = () => {
   return (
     <>
       <Head title="Browse Cars | AutoSell Ltd" description="Explore cars for sale in Ghana. Filter by make, model, and location." canonicalPath="/browse" />
-      <section className="container py-10 animate-fade-in">
+      <section className="container py-10">
         <h1 className="text-3xl font-bold">Browse Cars</h1>
         <p className="text-muted-foreground mt-2">Find your next car by filtering through our listings.</p>
 

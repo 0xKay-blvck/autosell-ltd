@@ -26,7 +26,7 @@ const Partner = () => {
   return (
     <>
       <Head title="Partner With Us | AutoSell Ltd" description="Garages and dealers in Ghana — partner with AutoSell to get your inventory in front of more buyers." canonicalPath="/partner" />
-      <section className="container py-10 animate-fade-in">
+      <section className="container py-10">
         <h1 className="text-3xl font-bold">Partner With Us</h1>
         <p className="text-muted-foreground mt-2 max-w-2xl">
           Join our network of trusted garages and dealerships. We promote listings across Facebook and Instagram to drive more leads.

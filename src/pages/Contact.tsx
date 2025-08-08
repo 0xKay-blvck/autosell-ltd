@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <>
       <Head title="Contact | AutoSell Ltd" description="Get in touch with AutoSell via WhatsApp, Facebook, or Instagram." canonicalPath="/contact" />
-      <section className="container py-10">
+      <section className="container py-10 animate-fade-in">
         <h1 className="text-3xl font-bold">Contact</h1>
         <p className="text-muted-foreground mt-2">We respond quickly on WhatsApp and social media.</p>
 

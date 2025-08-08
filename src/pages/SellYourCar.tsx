@@ -26,7 +26,7 @@ const SellYourCar = () => {
   return (
     <>
       <Head title="Sell Your Car | AutoSell Ltd" description="Promote your car with AutoSell. Submit your details to advertise to our audience across Ghana." canonicalPath="/sell" />
-      <section className="container py-10">
+      <section className="container py-10 animate-fade-in">
         <h1 className="text-3xl font-bold">Sell Your Car</h1>
         <p className="text-muted-foreground mt-2 max-w-2xl">
           We actively promote car listings via Facebook and Instagram. Submit your car details below to advertise for a small fee and reach more buyers quickly.

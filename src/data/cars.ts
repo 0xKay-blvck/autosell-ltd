@@ -22,7 +22,7 @@ export const cars: Car[] = [
     mileage: 72000,
     transmission: "Automatic",
     fuel: "Petrol",
-    imageUrl: "/placeholder.svg", // Replace with: /images/cars/corolla.jpg
+    imageUrl: "/images/cars/corolla.svg", // Replace with: /images/cars/corolla.jpg
   },
   {
     id: "2",
@@ -34,7 +34,7 @@ export const cars: Car[] = [
     mileage: 54000,
     transmission: "Automatic",
     fuel: "Petrol",
-    imageUrl: "/placeholder.svg", // Replace with: /images/cars/civic.jpg
+    imageUrl: "/images/cars/civic.svg", // Replace with: /images/cars/civic.jpg
   },
   {
     id: "3",
@@ -46,7 +46,7 @@ export const cars: Car[] = [
     mileage: 65000,
     transmission: "Automatic",
     fuel: "Petrol",
-    imageUrl: "/placeholder.svg", // Replace with: /images/cars/elantra.jpg
+    imageUrl: "/images/cars/elantra.svg", // Replace with: /images/cars/elantra.jpg
   },
   {
     id: "4",
@@ -58,7 +58,7 @@ export const cars: Car[] = [
     mileage: 49000,
     transmission: "Automatic",
     fuel: "Petrol",
-    imageUrl: "/placeholder.svg", // Replace with: /images/cars/rogue.jpg
+    imageUrl: "/images/cars/rogue.svg", // Replace with: /images/cars/rogue.jpg
   },
   {
     id: "5",
@@ -70,7 +70,7 @@ export const cars: Car[] = [
     mileage: 31000,
     transmission: "Automatic",
     fuel: "Petrol",
-    imageUrl: "/placeholder.svg", // Replace with: /images/cars/rav4.jpg
+    imageUrl: "/images/cars/rav4.svg", // Replace with: /images/cars/rav4.jpg
   },
   {
     id: "6",
@@ -82,6 +82,6 @@ export const cars: Car[] = [
     mileage: 82000,
     transmission: "Manual",
     fuel: "Petrol",
-    imageUrl: "/placeholder.svg", // Replace with: /images/cars/picanto.jpg
+    imageUrl: "/images/cars/picanto.svg", // Replace with: /images/cars/picanto.jpg
   },
 ];
